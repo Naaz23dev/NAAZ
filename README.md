@@ -11,8 +11,7 @@
 - 🔭 I’m currently learning **PHP and MySQL**
 - 🌱 I’m skilled in **HTML, CSS, and JavaScript**
 - 👩‍💻 Passionate about building **responsive and interactive websites**
-- 📫 How to reach me: `naaziya.email@example.com` *(replace with your actual email)*
-
+- 📫 How to reach me: `khatoonnaaziya@123gmail.com` 
 ---
 
 ### 🛠️ Languages and Tools
@@ -40,7 +39,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/your-linkedin-id" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:naaziya.email@example.com"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="khatoonnaaziya@123gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 ---
